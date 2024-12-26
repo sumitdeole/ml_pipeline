@@ -6,7 +6,7 @@ This project demonstrates a complete ML pipeline, from data preparation to deplo
 ## Features
 - Data Cleaning and exploratory analysis
 - Model Training and Evaluation
-- Deployment via Flask API
+- Deployment via Streamlit
 
 ## How to Run
 1. Clone this repository.
